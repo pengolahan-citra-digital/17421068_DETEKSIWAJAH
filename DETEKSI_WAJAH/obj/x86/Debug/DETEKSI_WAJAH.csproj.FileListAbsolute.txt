@@ -1,0 +1,15 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\obj\x86\Debug\DETEKSI_WAJAH.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\obj\x86\Debug\DETEKSI_WAJAH.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\obj\x86\Debug\DETEKSI_WAJAH.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\DETEKSI_WAJAH.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\DETEKSI_WAJAH.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\Emgu.CV.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\Emgu.Util.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\ZedGraph.dll
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\Emgu.CV.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\bin\Debug\Emgu.Util.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\obj\x86\Debug\DETEKSI_WAJAH.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\obj\x86\Debug\DETEKSI_WAJAH.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\DETEKSI_WAJAH\DETEKSI_WAJAH\obj\x86\Debug\DETEKSI_WAJAH.csprojResolveAssemblyReference.cache
